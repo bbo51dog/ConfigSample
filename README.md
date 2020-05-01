@@ -1,0 +1,2 @@
+# ConfigSample
+Sample plugin
